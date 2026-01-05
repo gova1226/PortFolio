@@ -14,7 +14,7 @@ st.subheader("Data Analyst | SQL, Python, Power BI | Dashboarding & Business Ins
 st.markdown("""
 📍 Coimbatore, Tamil Nadu  
 📧 govardhananprema@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/govardhanan-g-1b277010) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/govardhanan-g-1b2770102/) | 
 💻 [GitHub](https://github.com/gova1226)
 """)
 
@@ -175,5 +175,6 @@ Kathir College of Engineering (2015)
 # -------------------- FOOTER --------------------
 st.divider()
 st.caption("📊 Data Analyst Portfolio | Built with Streamlit")
+
 
 
