@@ -24,10 +24,8 @@ st.divider()
 st.header("Professional Summary")
 
 st.write("""
-Data Analyst with 4+ years of experience in data analysis, reporting automation, dashboard development, 
-and KPI tracking. Strong expertise in SQL, Python (Pandas, NumPy), Power BI, and Streamlit for exploratory 
-data analysis (EDA), data visualization, and business insights. Proven ability to automate reporting workflows, 
-improve data accuracy, and support data-driven decision-making across operations and analytics teams.
+Data Analyst with 4+ years of hands-on experience in data analysis, and 7+ years of overall professional experience across analytics, operations, and reporting automation.
+Strong expertise in SQL, Python (Pandas, NumPy), Power BI, and Streamlit for exploratory data analysis (EDA), dashboard development, and business insights.
 """)
 
 # -------------------- SKILLS --------------------
@@ -103,6 +101,43 @@ with st.expander("📌 Customer Churn Analysis – Publishing Industry"):
     - Supported data-driven retention strategies  
     """)
 
+with st.expander("📌 Airbnb Data Analysis and Visualization"):
+    st.write("""
+    **Role:** Data Analyst  
+    **Tools:** Python, Pandas, Streamlit, Matplotlib, Seaborn  
+
+    - Performed exploratory data analysis (EDA) on Airbnb listings to analyze pricing, availability, and neighborhood trends  
+    - Cleaned and transformed data to handle missing values and outliers  
+    - Identified key factors influencing price variation across locations  
+    - Built interactive dashboards using Streamlit for insight-driven exploration  
+    - Improved insight generation efficiency by 35%  
+    """)
+
+with st.expander("📌 Industrial Copper Data Analysis and Modeling"):
+    st.write("""
+    **Role:** Data Analyst (Predictive Analytics)  
+    **Tools:** Python, Pandas, Scikit-learn, Streamlit  
+
+    - Analyzed manufacturing sales data to understand pricing and lead conversion behavior  
+    - Handled skewed and noisy data using preprocessing and transformation techniques  
+    - Performed exploratory analysis to uncover pricing patterns  
+    - Built regression and classification models to support business decisions  
+    - Improved pricing accuracy and lead evaluation efficiency by 40%  
+    """)
+
+with st.expander("📌 Singapore Resale Flat Prices Analysis"):
+    st.write("""
+    **Role:** Data Analyst  
+    **Tools:** Python, Pandas, Scikit-learn, Streamlit  
+
+    - Analyzed Singapore HDB resale flat data to identify pricing trends and key drivers  
+    - Performed feature engineering on property attributes  
+    - Built regression-based models for price forecasting  
+    - Developed a Streamlit interface for interactive price estimation  
+    - Improved pricing insight generation by 30%  
+    """)
+
+
 # -------------------- EXPERIENCE --------------------
 st.header("Professional Experience")
 
@@ -140,4 +175,5 @@ Kathir College of Engineering (2015)
 # -------------------- FOOTER --------------------
 st.divider()
 st.caption("📊 Data Analyst Portfolio | Built with Streamlit")
+
 
