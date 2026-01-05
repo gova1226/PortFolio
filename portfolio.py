@@ -24,7 +24,7 @@ st.divider()
 st.header("Professional Summary")
 
 st.write("""
-Data Analyst with 7+ years of experience in data analysis, reporting automation, dashboard development, 
+Data Analyst with 4+ years of experience in data analysis, reporting automation, dashboard development, 
 and KPI tracking. Strong expertise in SQL, Python (Pandas, NumPy), Power BI, and Streamlit for exploratory 
 data analysis (EDA), data visualization, and business insights. Proven ability to automate reporting workflows, 
 improve data accuracy, and support data-driven decision-making across operations and analytics teams.
@@ -140,3 +140,4 @@ Kathir College of Engineering (2015)
 # -------------------- FOOTER --------------------
 st.divider()
 st.caption("📊 Data Analyst Portfolio | Built with Streamlit")
+
